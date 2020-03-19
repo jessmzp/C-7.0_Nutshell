@@ -1,0 +1,11 @@
+C:\Users\Corsair\Desktop\Ejercicios\ValueTypes\bin\Debug\netcoreapp3.1\ValueTypes.exe
+C:\Users\Corsair\Desktop\Ejercicios\ValueTypes\bin\Debug\netcoreapp3.1\ValueTypes.deps.json
+C:\Users\Corsair\Desktop\Ejercicios\ValueTypes\bin\Debug\netcoreapp3.1\ValueTypes.runtimeconfig.json
+C:\Users\Corsair\Desktop\Ejercicios\ValueTypes\bin\Debug\netcoreapp3.1\ValueTypes.runtimeconfig.dev.json
+C:\Users\Corsair\Desktop\Ejercicios\ValueTypes\bin\Debug\netcoreapp3.1\ValueTypes.dll
+C:\Users\Corsair\Desktop\Ejercicios\ValueTypes\bin\Debug\netcoreapp3.1\ValueTypes.pdb
+C:\Users\Corsair\Desktop\Ejercicios\ValueTypes\obj\Debug\netcoreapp3.1\ValueTypes.csprojAssemblyReference.cache
+C:\Users\Corsair\Desktop\Ejercicios\ValueTypes\obj\Debug\netcoreapp3.1\ValueTypes.AssemblyInfoInputs.cache
+C:\Users\Corsair\Desktop\Ejercicios\ValueTypes\obj\Debug\netcoreapp3.1\ValueTypes.AssemblyInfo.cs
+C:\Users\Corsair\Desktop\Ejercicios\ValueTypes\obj\Debug\netcoreapp3.1\ValueTypes.dll
+C:\Users\Corsair\Desktop\Ejercicios\ValueTypes\obj\Debug\netcoreapp3.1\ValueTypes.pdb

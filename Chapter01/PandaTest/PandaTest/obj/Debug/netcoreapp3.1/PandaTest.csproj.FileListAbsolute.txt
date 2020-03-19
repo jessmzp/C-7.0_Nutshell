@@ -1,0 +1,11 @@
+C:\Users\Corsair\Desktop\Ejercicios\PandaTest\PandaTest\bin\Debug\netcoreapp3.1\PandaTest.exe
+C:\Users\Corsair\Desktop\Ejercicios\PandaTest\PandaTest\bin\Debug\netcoreapp3.1\PandaTest.deps.json
+C:\Users\Corsair\Desktop\Ejercicios\PandaTest\PandaTest\bin\Debug\netcoreapp3.1\PandaTest.runtimeconfig.json
+C:\Users\Corsair\Desktop\Ejercicios\PandaTest\PandaTest\bin\Debug\netcoreapp3.1\PandaTest.runtimeconfig.dev.json
+C:\Users\Corsair\Desktop\Ejercicios\PandaTest\PandaTest\bin\Debug\netcoreapp3.1\PandaTest.dll
+C:\Users\Corsair\Desktop\Ejercicios\PandaTest\PandaTest\bin\Debug\netcoreapp3.1\PandaTest.pdb
+C:\Users\Corsair\Desktop\Ejercicios\PandaTest\PandaTest\obj\Debug\netcoreapp3.1\PandaTest.csprojAssemblyReference.cache
+C:\Users\Corsair\Desktop\Ejercicios\PandaTest\PandaTest\obj\Debug\netcoreapp3.1\PandaTest.AssemblyInfoInputs.cache
+C:\Users\Corsair\Desktop\Ejercicios\PandaTest\PandaTest\obj\Debug\netcoreapp3.1\PandaTest.AssemblyInfo.cs
+C:\Users\Corsair\Desktop\Ejercicios\PandaTest\PandaTest\obj\Debug\netcoreapp3.1\PandaTest.dll
+C:\Users\Corsair\Desktop\Ejercicios\PandaTest\PandaTest\obj\Debug\netcoreapp3.1\PandaTest.pdb

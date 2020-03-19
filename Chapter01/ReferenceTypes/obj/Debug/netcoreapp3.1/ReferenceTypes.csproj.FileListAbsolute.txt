@@ -1,0 +1,11 @@
+C:\Users\Corsair\Desktop\Ejercicios\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.exe
+C:\Users\Corsair\Desktop\Ejercicios\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.deps.json
+C:\Users\Corsair\Desktop\Ejercicios\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.runtimeconfig.json
+C:\Users\Corsair\Desktop\Ejercicios\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.runtimeconfig.dev.json
+C:\Users\Corsair\Desktop\Ejercicios\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.dll
+C:\Users\Corsair\Desktop\Ejercicios\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.pdb
+C:\Users\Corsair\Desktop\Ejercicios\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.csprojAssemblyReference.cache
+C:\Users\Corsair\Desktop\Ejercicios\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.AssemblyInfoInputs.cache
+C:\Users\Corsair\Desktop\Ejercicios\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.AssemblyInfo.cs
+C:\Users\Corsair\Desktop\Ejercicios\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.dll
+C:\Users\Corsair\Desktop\Ejercicios\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.pdb

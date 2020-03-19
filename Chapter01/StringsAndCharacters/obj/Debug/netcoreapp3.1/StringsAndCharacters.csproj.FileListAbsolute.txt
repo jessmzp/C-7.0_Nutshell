@@ -1,0 +1,11 @@
+C:\Users\Corsair\Desktop\JZ\Ejemplos\StringsAndCharacters\bin\Debug\netcoreapp3.1\StringsAndCharacters.exe
+C:\Users\Corsair\Desktop\JZ\Ejemplos\StringsAndCharacters\bin\Debug\netcoreapp3.1\StringsAndCharacters.deps.json
+C:\Users\Corsair\Desktop\JZ\Ejemplos\StringsAndCharacters\bin\Debug\netcoreapp3.1\StringsAndCharacters.runtimeconfig.json
+C:\Users\Corsair\Desktop\JZ\Ejemplos\StringsAndCharacters\bin\Debug\netcoreapp3.1\StringsAndCharacters.runtimeconfig.dev.json
+C:\Users\Corsair\Desktop\JZ\Ejemplos\StringsAndCharacters\bin\Debug\netcoreapp3.1\StringsAndCharacters.dll
+C:\Users\Corsair\Desktop\JZ\Ejemplos\StringsAndCharacters\bin\Debug\netcoreapp3.1\StringsAndCharacters.pdb
+C:\Users\Corsair\Desktop\JZ\Ejemplos\StringsAndCharacters\obj\Debug\netcoreapp3.1\StringsAndCharacters.csprojAssemblyReference.cache
+C:\Users\Corsair\Desktop\JZ\Ejemplos\StringsAndCharacters\obj\Debug\netcoreapp3.1\StringsAndCharacters.AssemblyInfoInputs.cache
+C:\Users\Corsair\Desktop\JZ\Ejemplos\StringsAndCharacters\obj\Debug\netcoreapp3.1\StringsAndCharacters.AssemblyInfo.cs
+C:\Users\Corsair\Desktop\JZ\Ejemplos\StringsAndCharacters\obj\Debug\netcoreapp3.1\StringsAndCharacters.dll
+C:\Users\Corsair\Desktop\JZ\Ejemplos\StringsAndCharacters\obj\Debug\netcoreapp3.1\StringsAndCharacters.pdb

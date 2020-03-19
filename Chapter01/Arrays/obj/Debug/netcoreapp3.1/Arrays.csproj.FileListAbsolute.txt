@@ -1,0 +1,11 @@
+C:\Users\Corsair\Desktop\JZ\Ejemplos\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+C:\Users\Corsair\Desktop\JZ\Ejemplos\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+C:\Users\Corsair\Desktop\JZ\Ejemplos\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+C:\Users\Corsair\Desktop\JZ\Ejemplos\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+C:\Users\Corsair\Desktop\JZ\Ejemplos\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\Corsair\Desktop\JZ\Ejemplos\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+C:\Users\Corsair\Desktop\JZ\Ejemplos\Arrays\obj\Debug\netcoreapp3.1\Arrays.csprojAssemblyReference.cache
+C:\Users\Corsair\Desktop\JZ\Ejemplos\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+C:\Users\Corsair\Desktop\JZ\Ejemplos\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+C:\Users\Corsair\Desktop\JZ\Ejemplos\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\Corsair\Desktop\JZ\Ejemplos\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb

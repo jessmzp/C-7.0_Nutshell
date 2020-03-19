@@ -1,0 +1,11 @@
+C:\Users\Corsair\Desktop\Ejercicios\Conversions\bin\Debug\netcoreapp3.1\Conversions.exe
+C:\Users\Corsair\Desktop\Ejercicios\Conversions\bin\Debug\netcoreapp3.1\Conversions.deps.json
+C:\Users\Corsair\Desktop\Ejercicios\Conversions\bin\Debug\netcoreapp3.1\Conversions.runtimeconfig.json
+C:\Users\Corsair\Desktop\Ejercicios\Conversions\bin\Debug\netcoreapp3.1\Conversions.runtimeconfig.dev.json
+C:\Users\Corsair\Desktop\Ejercicios\Conversions\bin\Debug\netcoreapp3.1\Conversions.dll
+C:\Users\Corsair\Desktop\Ejercicios\Conversions\bin\Debug\netcoreapp3.1\Conversions.pdb
+C:\Users\Corsair\Desktop\Ejercicios\Conversions\obj\Debug\netcoreapp3.1\Conversions.csprojAssemblyReference.cache
+C:\Users\Corsair\Desktop\Ejercicios\Conversions\obj\Debug\netcoreapp3.1\Conversions.AssemblyInfoInputs.cache
+C:\Users\Corsair\Desktop\Ejercicios\Conversions\obj\Debug\netcoreapp3.1\Conversions.AssemblyInfo.cs
+C:\Users\Corsair\Desktop\Ejercicios\Conversions\obj\Debug\netcoreapp3.1\Conversions.dll
+C:\Users\Corsair\Desktop\Ejercicios\Conversions\obj\Debug\netcoreapp3.1\Conversions.pdb

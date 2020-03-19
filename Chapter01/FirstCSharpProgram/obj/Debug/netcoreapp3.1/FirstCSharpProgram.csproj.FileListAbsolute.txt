@@ -1,0 +1,11 @@
+C:\Users\Corsair\source\repos\FirstCSharpProgram\bin\Debug\netcoreapp3.1\FirstCSharpProgram.exe
+C:\Users\Corsair\source\repos\FirstCSharpProgram\bin\Debug\netcoreapp3.1\FirstCSharpProgram.deps.json
+C:\Users\Corsair\source\repos\FirstCSharpProgram\bin\Debug\netcoreapp3.1\FirstCSharpProgram.runtimeconfig.json
+C:\Users\Corsair\source\repos\FirstCSharpProgram\bin\Debug\netcoreapp3.1\FirstCSharpProgram.runtimeconfig.dev.json
+C:\Users\Corsair\source\repos\FirstCSharpProgram\bin\Debug\netcoreapp3.1\FirstCSharpProgram.dll
+C:\Users\Corsair\source\repos\FirstCSharpProgram\bin\Debug\netcoreapp3.1\FirstCSharpProgram.pdb
+C:\Users\Corsair\source\repos\FirstCSharpProgram\obj\Debug\netcoreapp3.1\FirstCSharpProgram.csprojAssemblyReference.cache
+C:\Users\Corsair\source\repos\FirstCSharpProgram\obj\Debug\netcoreapp3.1\FirstCSharpProgram.AssemblyInfoInputs.cache
+C:\Users\Corsair\source\repos\FirstCSharpProgram\obj\Debug\netcoreapp3.1\FirstCSharpProgram.AssemblyInfo.cs
+C:\Users\Corsair\source\repos\FirstCSharpProgram\obj\Debug\netcoreapp3.1\FirstCSharpProgram.dll
+C:\Users\Corsair\source\repos\FirstCSharpProgram\obj\Debug\netcoreapp3.1\FirstCSharpProgram.pdb

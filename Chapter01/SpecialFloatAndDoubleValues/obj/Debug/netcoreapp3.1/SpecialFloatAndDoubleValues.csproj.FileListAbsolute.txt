@@ -1,0 +1,11 @@
+C:\Users\Corsair\Desktop\JZ\Ejemplos\SpecialFloatAndDoubleValues\bin\Debug\netcoreapp3.1\SpecialFloatAndDoubleValues.exe
+C:\Users\Corsair\Desktop\JZ\Ejemplos\SpecialFloatAndDoubleValues\bin\Debug\netcoreapp3.1\SpecialFloatAndDoubleValues.deps.json
+C:\Users\Corsair\Desktop\JZ\Ejemplos\SpecialFloatAndDoubleValues\bin\Debug\netcoreapp3.1\SpecialFloatAndDoubleValues.runtimeconfig.json
+C:\Users\Corsair\Desktop\JZ\Ejemplos\SpecialFloatAndDoubleValues\bin\Debug\netcoreapp3.1\SpecialFloatAndDoubleValues.runtimeconfig.dev.json
+C:\Users\Corsair\Desktop\JZ\Ejemplos\SpecialFloatAndDoubleValues\bin\Debug\netcoreapp3.1\SpecialFloatAndDoubleValues.dll
+C:\Users\Corsair\Desktop\JZ\Ejemplos\SpecialFloatAndDoubleValues\bin\Debug\netcoreapp3.1\SpecialFloatAndDoubleValues.pdb
+C:\Users\Corsair\Desktop\JZ\Ejemplos\SpecialFloatAndDoubleValues\obj\Debug\netcoreapp3.1\SpecialFloatAndDoubleValues.csprojAssemblyReference.cache
+C:\Users\Corsair\Desktop\JZ\Ejemplos\SpecialFloatAndDoubleValues\obj\Debug\netcoreapp3.1\SpecialFloatAndDoubleValues.AssemblyInfoInputs.cache
+C:\Users\Corsair\Desktop\JZ\Ejemplos\SpecialFloatAndDoubleValues\obj\Debug\netcoreapp3.1\SpecialFloatAndDoubleValues.AssemblyInfo.cs
+C:\Users\Corsair\Desktop\JZ\Ejemplos\SpecialFloatAndDoubleValues\obj\Debug\netcoreapp3.1\SpecialFloatAndDoubleValues.dll
+C:\Users\Corsair\Desktop\JZ\Ejemplos\SpecialFloatAndDoubleValues\obj\Debug\netcoreapp3.1\SpecialFloatAndDoubleValues.pdb

@@ -1,0 +1,11 @@
+C:\Users\Corsair\Desktop\JZ\Ejemplos\ConditionalOperators\bin\Debug\netcoreapp3.1\ConditionalOperators.exe
+C:\Users\Corsair\Desktop\JZ\Ejemplos\ConditionalOperators\bin\Debug\netcoreapp3.1\ConditionalOperators.deps.json
+C:\Users\Corsair\Desktop\JZ\Ejemplos\ConditionalOperators\bin\Debug\netcoreapp3.1\ConditionalOperators.runtimeconfig.json
+C:\Users\Corsair\Desktop\JZ\Ejemplos\ConditionalOperators\bin\Debug\netcoreapp3.1\ConditionalOperators.runtimeconfig.dev.json
+C:\Users\Corsair\Desktop\JZ\Ejemplos\ConditionalOperators\bin\Debug\netcoreapp3.1\ConditionalOperators.dll
+C:\Users\Corsair\Desktop\JZ\Ejemplos\ConditionalOperators\bin\Debug\netcoreapp3.1\ConditionalOperators.pdb
+C:\Users\Corsair\Desktop\JZ\Ejemplos\ConditionalOperators\obj\Debug\netcoreapp3.1\ConditionalOperators.csprojAssemblyReference.cache
+C:\Users\Corsair\Desktop\JZ\Ejemplos\ConditionalOperators\obj\Debug\netcoreapp3.1\ConditionalOperators.AssemblyInfoInputs.cache
+C:\Users\Corsair\Desktop\JZ\Ejemplos\ConditionalOperators\obj\Debug\netcoreapp3.1\ConditionalOperators.AssemblyInfo.cs
+C:\Users\Corsair\Desktop\JZ\Ejemplos\ConditionalOperators\obj\Debug\netcoreapp3.1\ConditionalOperators.dll
+C:\Users\Corsair\Desktop\JZ\Ejemplos\ConditionalOperators\obj\Debug\netcoreapp3.1\ConditionalOperators.pdb

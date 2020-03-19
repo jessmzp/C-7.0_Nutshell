@@ -1,0 +1,11 @@
+C:\Users\Corsair\Desktop\Ejercicios\IncrementDecrement\bin\Debug\netcoreapp3.1\IncrementDecrement.exe
+C:\Users\Corsair\Desktop\Ejercicios\IncrementDecrement\bin\Debug\netcoreapp3.1\IncrementDecrement.deps.json
+C:\Users\Corsair\Desktop\Ejercicios\IncrementDecrement\bin\Debug\netcoreapp3.1\IncrementDecrement.runtimeconfig.json
+C:\Users\Corsair\Desktop\Ejercicios\IncrementDecrement\bin\Debug\netcoreapp3.1\IncrementDecrement.runtimeconfig.dev.json
+C:\Users\Corsair\Desktop\Ejercicios\IncrementDecrement\bin\Debug\netcoreapp3.1\IncrementDecrement.dll
+C:\Users\Corsair\Desktop\Ejercicios\IncrementDecrement\bin\Debug\netcoreapp3.1\IncrementDecrement.pdb
+C:\Users\Corsair\Desktop\Ejercicios\IncrementDecrement\obj\Debug\netcoreapp3.1\IncrementDecrement.csprojAssemblyReference.cache
+C:\Users\Corsair\Desktop\Ejercicios\IncrementDecrement\obj\Debug\netcoreapp3.1\IncrementDecrement.AssemblyInfoInputs.cache
+C:\Users\Corsair\Desktop\Ejercicios\IncrementDecrement\obj\Debug\netcoreapp3.1\IncrementDecrement.AssemblyInfo.cs
+C:\Users\Corsair\Desktop\Ejercicios\IncrementDecrement\obj\Debug\netcoreapp3.1\IncrementDecrement.dll
+C:\Users\Corsair\Desktop\Ejercicios\IncrementDecrement\obj\Debug\netcoreapp3.1\IncrementDecrement.pdb

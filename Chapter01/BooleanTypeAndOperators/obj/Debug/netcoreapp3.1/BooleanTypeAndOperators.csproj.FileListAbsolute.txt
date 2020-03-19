@@ -1,0 +1,11 @@
+C:\Users\Corsair\Desktop\JZ\Ejemplos\BooleanTypeAndOperators\bin\Debug\netcoreapp3.1\BooleanTypeAndOperators.exe
+C:\Users\Corsair\Desktop\JZ\Ejemplos\BooleanTypeAndOperators\bin\Debug\netcoreapp3.1\BooleanTypeAndOperators.deps.json
+C:\Users\Corsair\Desktop\JZ\Ejemplos\BooleanTypeAndOperators\bin\Debug\netcoreapp3.1\BooleanTypeAndOperators.runtimeconfig.json
+C:\Users\Corsair\Desktop\JZ\Ejemplos\BooleanTypeAndOperators\bin\Debug\netcoreapp3.1\BooleanTypeAndOperators.runtimeconfig.dev.json
+C:\Users\Corsair\Desktop\JZ\Ejemplos\BooleanTypeAndOperators\bin\Debug\netcoreapp3.1\BooleanTypeAndOperators.dll
+C:\Users\Corsair\Desktop\JZ\Ejemplos\BooleanTypeAndOperators\bin\Debug\netcoreapp3.1\BooleanTypeAndOperators.pdb
+C:\Users\Corsair\Desktop\JZ\Ejemplos\BooleanTypeAndOperators\obj\Debug\netcoreapp3.1\BooleanTypeAndOperators.csprojAssemblyReference.cache
+C:\Users\Corsair\Desktop\JZ\Ejemplos\BooleanTypeAndOperators\obj\Debug\netcoreapp3.1\BooleanTypeAndOperators.AssemblyInfoInputs.cache
+C:\Users\Corsair\Desktop\JZ\Ejemplos\BooleanTypeAndOperators\obj\Debug\netcoreapp3.1\BooleanTypeAndOperators.AssemblyInfo.cs
+C:\Users\Corsair\Desktop\JZ\Ejemplos\BooleanTypeAndOperators\obj\Debug\netcoreapp3.1\BooleanTypeAndOperators.dll
+C:\Users\Corsair\Desktop\JZ\Ejemplos\BooleanTypeAndOperators\obj\Debug\netcoreapp3.1\BooleanTypeAndOperators.pdb
