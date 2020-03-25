@@ -8,19 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Corsair\\.nuget\\packages\\": {}
+    "C:\\Users\\Jessica Marcela\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Corsair\\Desktop\\JZ\\Ejemplos\\Arrays\\Arrays.csproj",
+      "projectUniqueName": "C:\\Users\\Jessica Marcela\\Desktop\\CSharp\\CSharp-7.0_Nutshell\\Chapter01\\Arrays\\Arrays.csproj",
       "projectName": "Arrays",
-      "projectPath": "C:\\Users\\Corsair\\Desktop\\JZ\\Ejemplos\\Arrays\\Arrays.csproj",
-      "packagesPath": "C:\\Users\\Corsair\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Corsair\\Desktop\\JZ\\Ejemplos\\Arrays\\obj\\",
+      "projectPath": "C:\\Users\\Jessica Marcela\\Desktop\\CSharp\\CSharp-7.0_Nutshell\\Chapter01\\Arrays\\Arrays.csproj",
+      "packagesPath": "C:\\Users\\Jessica Marcela\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jessica Marcela\\Desktop\\CSharp\\CSharp-7.0_Nutshell\\Chapter01\\Arrays\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Corsair\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jessica Marcela\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
